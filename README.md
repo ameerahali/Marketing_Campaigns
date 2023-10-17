@@ -1,13 +1,14 @@
 # Marketing_Campaigns
 
 
-## PROBLEM:
-
 
 ## Introduction:
 
 
 This report highlights a project that applied data science techniques to real-life marketing challenges. By utilizing Python and its best libraries, we aimed to explore the general applicability of data science and its practicality. Our objective was to conduct exploratory data analysis and hypothesis testing to gain a deeper understanding of the factors influencing customer acquisition.
+
+
+  ![MarketingCompaningImage](https://github.com/ameerahali/Marketing_Campaigns/assets/105976898/67a1b0a3-4d82-4d3d-b5bf-0d7e000081bb)
 
 ## Problem Context: 
 
